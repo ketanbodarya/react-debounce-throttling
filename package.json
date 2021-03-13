@@ -1,6 +1,6 @@
 {
   "name": "reactjs-debounce",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "react package for debounce searching in reactjs",
   "author": "ketanbodarya",
   "license": "MIT",
@@ -52,5 +52,11 @@
   ],
   "dependencies": {
     "lodash.debounce": "^4.0.8"
-  }
+  },
+  "keywords": [
+    "Reactjs",
+    "Debounce Search",
+    "Throttling",
+    "Javascript"
+  ]
 }

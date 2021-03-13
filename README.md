@@ -34,12 +34,14 @@ class Example extends Component {
 ```
 
 ## Apis
+
 ```
 1) searchText (optional) - a default text that you want to apply for search
 2) onDebounce - this will return a function that have debounce value as an argument parameter.
 ```
 
 ## Css
+
 ```
 1) Create a class named `debounce-search`
 2) Add all you css to this class to apply your design in textbox.
@@ -47,4 +49,4 @@ class Example extends Component {
 
 ## License
 
-MIT © [ketanbodarya](https://github.com/ketanbodarya)
+MIT © [ketanbodarya](https://github.com/ketanbodarya) & [savaliyanidhi](https://github.com/savaliyanidhi) & [parth-gondaliya](https://github.com/parth-gondaliya)
