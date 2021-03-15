@@ -1,10 +1,10 @@
 {
   "name": "reactjs-debounce",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "react package for debounce searching in reactjs",
   "author": "ketanbodarya",
   "license": "MIT",
-  "repository": "",
+  "repository": "ketanbodarya/react-debounce-throttling",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
